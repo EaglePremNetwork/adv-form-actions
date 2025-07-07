@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+adv-form-actions-1.jpg
+adv-form-actions-2.jpg
+adv-form-actions-3.jpg
